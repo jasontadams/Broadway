@@ -25,12 +25,27 @@ ul {
 }
 
 li {
+  font-size: 14px;
   margin-bottom: 14px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
 }
 
 p {
   font-weight: normal;
   font-size: 14px;
+}
+
+.flatiron {
+  color: white;
+  background-image: url(the-flatiron-building.png);
 }
 
 .bottomtag {
